@@ -1,12 +1,16 @@
-👋 Hello, I'm Pedro Muniz!
+Hello!
+---
+I'm Pedro, a technology enthusiast passionate about **design**, **marketing**, and **innovation**.  
 
-💻 I'm a technology enthusiast passionate about **design**, **marketing**, and **innovation**.  
-🚀 Currently diving into the world of **Front-End Development**, building projects and exploring how ideas can be transformed into digital products.  
+Currently diving into the world of **Front-End Development**, building projects and exploring how ideas can be transformed into digital products. 
 
+---
 ✨ About me
+---
 - 🌱 Currently learning and improving my skills in **JavaScript**, **HTML**, **CSS** and exploring frameworks like **React**  
 - 🎨 I enjoy combining **design** and **user experience** to create meaningful digital solutions  
 - 🎯 My goal is to connect creativity with technology to build impactful products  
-
+---
  📫 Connect with me
+ ---
 https://www.linkedin.com/in/pedro-muniz-6320672a1/
