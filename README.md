@@ -13,4 +13,4 @@ Currently diving into the world of **Front-End Development**, building projects 
 ---
  📫 Connect with me
  ---
-https://www.linkedin.com/in/pedro-muniz-6320672a1/
+
